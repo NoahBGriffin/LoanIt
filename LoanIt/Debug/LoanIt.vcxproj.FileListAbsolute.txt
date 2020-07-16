@@ -1,0 +1,2 @@
+C:\Users\gonzu\source\repos\LoanIt\Debug\LoanIt.exe
+C:\Users\gonzu\source\repos\LoanIt\Debug\LoanIt.pdb

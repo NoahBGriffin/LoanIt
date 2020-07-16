@@ -1,0 +1,8 @@
+ITEMS:
+Zade's spellbook: A fancy book for a fancy wizard
+Elias's lance: A sturdy lance for dealing out justice
+Potion of Greater Healing: Makes the drinker regain health.
+
+LOANS:
+101) Cloak of Elvenkind: handy for sneaking and hiding - Boone, 06-15-2020
+102) Worry stone: nice for anxiety - Zadiel Vauquelin, 06-15-2020
